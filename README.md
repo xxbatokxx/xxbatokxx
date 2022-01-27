@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xxbatokxx
 - 👀 I’m interested in Frontend dev
 - 🌱 I’m currently learning Javascript
-I hope, i can to become frontend dev
+- 📫 You can reach me at my instagram @iqbalrizkky
 
 <!---
 xxbatokxx/xxbatokxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
