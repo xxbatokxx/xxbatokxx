@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxbatokxx
+- 👋 Hi, I’m Iqbal Saputra
 - 👀 I’m interested in beautifully a website 
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach me at my instagram @iqbalrizkky
