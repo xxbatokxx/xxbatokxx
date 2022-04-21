@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Iqbal Saputra
-- 👀 I’m interested in beautifully a website 
-- 🌱 I’m currently learning Javascript
-- 📫 You can reach me at my instagram @iqbalrizkky
+- 📫 Send me texted to iqbalrisqi700@gmail.com
 
 <!---
 xxbatokxx/xxbatokxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
